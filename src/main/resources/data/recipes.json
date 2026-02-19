@@ -1,0 +1,572 @@
+{
+  "0": {
+    "Contient": "North America",
+    "Country_State": "US",
+    "cuisine": "Southern Recipes",
+    "title": "Sweet Potato Pie",
+    "URL": "https://www.allrecipes.com/recipe/12142/sweet-potato-pie-i/",
+    "rating": 4.8,
+    "total_time": 115,
+    "prep_time": 15,
+    "cook_time": 100,
+    "description": "Homemade sweet potato pie with warm spices.",
+    "ingredients": [
+      "1 sweet potato",
+      "0.5 cup butter",
+      "1 cup sugar",
+      "2 eggs",
+      "1 pie crust"
+    ],
+    "instructions": [
+      "Boil sweet potato until tender.",
+      "Mash and mix with remaining ingredients.",
+      "Bake until set."
+    ],
+    "nutrients": {
+      "calories": "389 kcal",
+      "carbohydrateContent": "48 g",
+      "cholesterolContent": "78 mg",
+      "fiberContent": "3 g",
+      "proteinContent": "5 g",
+      "fatContent": "21 g"
+    },
+    "serves": "8 servings"
+  },
+  "1": {
+    "Contient": "Europe",
+    "Country_State": "IT",
+    "cuisine": "Italian",
+    "title": "Margherita Pizza",
+    "URL": "https://example.com/margherita",
+    "rating": 4.7,
+    "total_time": 35,
+    "prep_time": 15,
+    "cook_time": 20,
+    "description": "Classic pizza with tomato, basil, and mozzarella.",
+    "ingredients": [
+      "pizza dough",
+      "tomato sauce",
+      "mozzarella",
+      "basil"
+    ],
+    "instructions": [
+      "Preheat oven.",
+      "Assemble toppings.",
+      "Bake until crust is golden."
+    ],
+    "nutrients": {
+      "calories": "450 kcal",
+      "proteinContent": "18 g",
+      "fatContent": "20 g"
+    },
+    "serves": "3 servings"
+  },
+  "2": {
+    "Contient": "Asia",
+    "Country_State": "IN",
+    "cuisine": "Indian",
+    "title": "Paneer Butter Masala",
+    "URL": "https://example.com/paneer",
+    "rating": 4.6,
+    "total_time": 45,
+    "prep_time": 20,
+    "cook_time": 25,
+    "description": "Creamy paneer curry with rich tomato gravy.",
+    "ingredients": [
+      "paneer",
+      "tomatoes",
+      "cream",
+      "butter",
+      "spices"
+    ],
+    "instructions": [
+      "Prepare gravy.",
+      "Add paneer.",
+      "Simmer and serve."
+    ],
+    "nutrients": {
+      "calories": "400 kcal",
+      "proteinContent": "15 g",
+      "fatContent": "25 g"
+    },
+    "serves": "3 servings"
+  },
+  "3": {
+    "Contient": "Asia",
+    "Country_State": "JP",
+    "cuisine": "Japanese",
+    "title": "Sushi",
+    "URL": "https://example.com/sushi",
+    "rating": 4.9,
+    "total_time": 40,
+    "prep_time": 30,
+    "cook_time": 10,
+    "description": "Fresh sushi rolls with rice and fish.",
+    "ingredients": [
+      "sushi rice",
+      "nori",
+      "fish",
+      "soy sauce"
+    ],
+    "instructions": [
+      "Cook rice.",
+      "Roll with fillings.",
+      "Slice and serve."
+    ],
+    "nutrients": {
+      "calories": "300 kcal",
+      "proteinContent": "12 g",
+      "fatContent": "5 g"
+    },
+    "serves": "2 servings"
+  },
+  "4": {
+    "Contient": "Asia",
+    "Country_State": "TH",
+    "cuisine": "Thai",
+    "title": "Green Curry",
+    "URL": "https://example.com/greencurry",
+    "rating": 4.4,
+    "total_time": 50,
+    "prep_time": 20,
+    "cook_time": 30,
+    "description": "Thai coconut green curry with vegetables.",
+    "ingredients": [
+      "coconut milk",
+      "green curry paste",
+      "vegetables"
+    ],
+    "instructions": [
+      "Cook paste.",
+      "Add coconut milk.",
+      "Simmer with veggies."
+    ],
+    "nutrients": {
+      "calories": "380 kcal",
+      "proteinContent": "9 g",
+      "fatContent": "22 g"
+    },
+    "serves": "2 servings"
+  },
+  "5": {
+    "Contient": "Asia",
+    "Country_State": "CN",
+    "cuisine": "Chinese",
+    "title": "Fried Rice",
+    "URL": "https://example.com/friedrice",
+    "rating": 4.3,
+    "total_time": 25,
+    "prep_time": 15,
+    "cook_time": 10,
+    "description": "Quick vegetable fried rice.",
+    "ingredients": [
+      "cooked rice",
+      "vegetables",
+      "soy sauce",
+      "egg"
+    ],
+    "instructions": [
+      "Stir-fry veggies.",
+      "Add rice and sauce.",
+      "Mix and serve."
+    ],
+    "nutrients": {
+      "calories": "350 kcal",
+      "proteinContent": "9 g",
+      "fatContent": "9 g"
+    },
+    "serves": "3 servings"
+  },
+  "6": {
+    "Contient": "North America",
+    "Country_State": "US",
+    "cuisine": "American",
+    "title": "Burger",
+    "URL": "https://example.com/burger",
+    "rating": 4.1,
+    "total_time": 25,
+    "prep_time": 10,
+    "cook_time": 15,
+    "description": "Grilled burger with lettuce and cheese.",
+    "ingredients": [
+      "bun",
+      "patty",
+      "cheese",
+      "lettuce"
+    ],
+    "instructions": [
+      "Grill patty.",
+      "Assemble burger.",
+      "Serve hot."
+    ],
+    "nutrients": {
+      "calories": "500 kcal",
+      "proteinContent": "25 g",
+      "fatContent": "30 g"
+    },
+    "serves": "1 serving"
+  },
+  "7": {
+    "Contient": "Europe",
+    "Country_State": "FR",
+    "cuisine": "French",
+    "title": "Omelette",
+    "URL": "https://example.com/omelette",
+    "rating": 4.0,
+    "total_time": 10,
+    "prep_time": 5,
+    "cook_time": 5,
+    "description": "Simple egg omelette with herbs.",
+    "ingredients": [
+      "eggs",
+      "salt",
+      "pepper",
+      "herbs"
+    ],
+    "instructions": [
+      "Beat eggs.",
+      "Cook in pan.",
+      "Fold and serve."
+    ],
+    "nutrients": {
+      "calories": "150 kcal",
+      "proteinContent": "8 g",
+      "fatContent": "10 g"
+    },
+    "serves": "1 serving"
+  },
+  "8": {
+    "Contient": "Asia",
+    "Country_State": "IN",
+    "cuisine": "Indian",
+    "title": "Idli",
+    "URL": "https://example.com/idli",
+    "rating": 4.2,
+    "total_time": 30,
+    "prep_time": 20,
+    "cook_time": 10,
+    "description": "Steamed rice cakes served with chutney.",
+    "ingredients": [
+      "idli batter",
+      "salt"
+    ],
+    "instructions": [
+      "Pour batter into molds.",
+      "Steam until cooked."
+    ],
+    "nutrients": {
+      "calories": "120 kcal",
+      "proteinContent": "4 g",
+      "fatContent": "1 g"
+    },
+    "serves": "4 servings"
+  },
+  "9": {
+    "Contient": "Europe",
+    "Country_State": "GR",
+    "cuisine": "Mediterranean",
+    "title": "Greek Salad",
+    "URL": "https://example.com/greeksalad",
+    "rating": 4.3,
+    "total_time": 10,
+    "prep_time": 10,
+    "cook_time": null,
+    "description": "Healthy salad with feta and olives.",
+    "ingredients": [
+      "cucumber",
+      "tomato",
+      "feta",
+      "olives"
+    ],
+    "instructions": [
+      "Chop veggies.",
+      "Mix and add dressing."
+    ],
+    "nutrients": {
+      "calories": "200 kcal",
+      "fatContent": "12 g",
+      "proteinContent": "5 g"
+    },
+    "serves": "2 servings"
+  },
+  "10": {
+    "Contient": "Europe",
+    "Country_State": "JP",
+    "cuisine": "Italian",
+    "title": "Pasta Alfredo",
+    "URL": "https://example.com/pasta-alfredo",
+    "rating": "NaN",
+    "total_time": 60,
+    "prep_time": 5,
+    "cook_time": 15,
+    "description": "Pasta Alfredo recipe description.",
+    "ingredients": [
+      "ingredient 1",
+      "ingredient 2",
+      "ingredient 3"
+    ],
+    "instructions": [
+      "Step 1",
+      "Step 2",
+      "Step 3"
+    ],
+    "nutrients": {
+      "calories": "400 kcal",
+      "proteinContent": "18 g",
+      "fatContent": "7 g"
+    },
+    "serves": "2 servings"
+  },
+  "11": {
+    "Contient": "Asia",
+    "Country_State": "TH",
+    "cuisine": "Japanese",
+    "title": "Tacos",
+    "URL": "https://example.com/tacos",
+    "rating": 4.0,
+    "total_time": 45,
+    "prep_time": 20,
+    "cook_time": 15,
+    "description": "Tacos recipe description.",
+    "ingredients": [
+      "ingredient 1",
+      "ingredient 2",
+      "ingredient 3"
+    ],
+    "instructions": [
+      "Step 1",
+      "Step 2",
+      "Step 3"
+    ],
+    "nutrients": {
+      "calories": null,
+      "proteinContent": "18 g",
+      "fatContent": null
+    },
+    "serves": "2 servings"
+  },
+  "12": {
+    "Contient": "North America",
+    "Country_State": "JP",
+    "cuisine": "Indian",
+    "title": "Nachos",
+    "URL": "https://example.com/nachos",
+    "rating": 4.7,
+    "total_time": 25,
+    "prep_time": 5,
+    "cook_time": 10,
+    "description": "Nachos recipe description.",
+    "ingredients": [
+      "ingredient 1",
+      "ingredient 2",
+      "ingredient 3"
+    ],
+    "instructions": [
+      "Step 1",
+      "Step 2",
+      "Step 3"
+    ],
+    "nutrients": {
+      "calories": "320 kcal",
+      "proteinContent": "12 g",
+      "fatContent": "25 g"
+    },
+    "serves": "4 servings"
+  },
+  "13": {
+    "Contient": "South America",
+    "Country_State": "BR",
+    "cuisine": "Mediterranean",
+    "title": "Chicken Curry",
+    "URL": "https://example.com/chicken-curry",
+    "rating": 4.1,
+    "total_time": 20,
+    "prep_time": 15,
+    "cook_time": "NaN",
+    "description": "Chicken Curry recipe description.",
+    "ingredients": [
+      "ingredient 1",
+      "ingredient 2",
+      "ingredient 3"
+    ],
+    "instructions": [
+      "Step 1",
+      "Step 2",
+      "Step 3"
+    ],
+    "nutrients": {
+      "calories": null,
+      "proteinContent": "5 g",
+      "fatContent": "15 g"
+    },
+    "serves": null
+  },
+  "14": {
+    "Contient": "Asia",
+    "Country_State": "IT",
+    "cuisine": "American",
+    "title": "Ramen",
+    "URL": "https://example.com/ramen",
+    "rating": 4.1,
+    "total_time": 20,
+    "prep_time": "NaN",
+    "cook_time": "NaN",
+    "description": "Ramen recipe description.",
+    "ingredients": [
+      "ingredient 1",
+      "ingredient 2",
+      "ingredient 3"
+    ],
+    "instructions": [
+      "Step 1",
+      "Step 2",
+      "Step 3"
+    ],
+    "nutrients": {
+      "calories": "320 kcal",
+      "proteinContent": "12 g",
+      "fatContent": null
+    },
+    "serves": "3 servings"
+  },
+  "15": {
+    "Contient": "Europe",
+    "Country_State": "JP",
+    "cuisine": "Indian",
+    "title": "Falafel",
+    "URL": "https://example.com/falafel",
+    "rating": 4.2,
+    "total_time": 25,
+    "prep_time": null,
+    "cook_time": 30,
+    "description": "Falafel recipe description.",
+    "ingredients": [
+      "ingredient 1",
+      "ingredient 2",
+      "ingredient 3"
+    ],
+    "instructions": [
+      "Step 1",
+      "Step 2",
+      "Step 3"
+    ],
+    "nutrients": {
+      "calories": null,
+      "proteinContent": null,
+      "fatContent": "25 g"
+    },
+    "serves": "4 servings"
+  },
+  "16": {
+    "Contient": "Europe",
+    "Country_State": "JP",
+    "cuisine": "Mexican",
+    "title": "Biryani",
+    "URL": "https://example.com/biryani",
+    "rating": 4.5,
+    "total_time": 60,
+    "prep_time": 5,
+    "cook_time": 25,
+    "description": "Biryani recipe description.",
+    "ingredients": [
+      "ingredient 1",
+      "ingredient 2",
+      "ingredient 3"
+    ],
+    "instructions": [
+      "Step 1",
+      "Step 2",
+      "Step 3"
+    ],
+    "nutrients": {
+      "calories": "320 kcal",
+      "proteinContent": "12 g",
+      "fatContent": "25 g"
+    },
+    "serves": "3 servings"
+  },
+  "17": {
+    "Contient": "Europe",
+    "Country_State": "BR",
+    "cuisine": "Thai",
+    "title": "Pancakes",
+    "URL": "https://example.com/pancakes",
+    "rating": 4.1,
+    "total_time": 25,
+    "prep_time": null,
+    "cook_time": null,
+    "description": "Pancakes recipe description.",
+    "ingredients": [
+      "ingredient 1",
+      "ingredient 2",
+      "ingredient 3"
+    ],
+    "instructions": [
+      "Step 1",
+      "Step 2",
+      "Step 3"
+    ],
+    "nutrients": {
+      "calories": "NaN",
+      "proteinContent": "12 g",
+      "fatContent": "25 g"
+    },
+    "serves": "2 servings"
+  },
+  "18": {
+    "Contient": "South America",
+    "Country_State": "MX",
+    "cuisine": "Italian",
+    "title": "Tom Yum Soup",
+    "URL": "https://example.com/tom-yum-soup",
+    "rating": "NaN",
+    "total_time": 25,
+    "prep_time": null,
+    "cook_time": 40,
+    "description": "Tom Yum Soup recipe description.",
+    "ingredients": [
+      "ingredient 1",
+      "ingredient 2",
+      "ingredient 3"
+    ],
+    "instructions": [
+      "Step 1",
+      "Step 2",
+      "Step 3"
+    ],
+    "nutrients": {
+      "calories": null,
+      "proteinContent": "5 g",
+      "fatContent": null
+    },
+    "serves": "3 servings"
+  },
+  "19": {
+    "Contient": "North America",
+    "Country_State": "MX",
+    "cuisine": "Indian",
+    "title": "Chocolate Brownie",
+    "URL": "https://example.com/chocolate-brownie",
+    "rating": "NaN",
+    "total_time": null,
+    "prep_time": 10,
+    "cook_time": 15,
+    "description": "Chocolate Brownie recipe description.",
+    "ingredients": [
+      "ingredient 1",
+      "ingredient 2",
+      "ingredient 3"
+    ],
+    "instructions": [
+      "Step 1",
+      "Step 2",
+      "Step 3"
+    ],
+    "nutrients": {
+      "calories": null,
+      "proteinContent": "18 g",
+      "fatContent": "7 g"
+    },
+    "serves": "2 servings"
+  }
+}
